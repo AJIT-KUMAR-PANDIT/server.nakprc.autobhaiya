@@ -1,0 +1,72 @@
+[
+  {
+    "rider": "$rider1",
+    "driver": "$driver7",
+    "booking": "$booking1",
+    "rating": 5,
+    "categories": {
+      "punctuality": 5,
+      "behavior": 5,
+      "vehicleCleanliness": 4,
+      "friendliness": 5
+    },
+    "reviewText": "Very punctual and helpful driver. Always waits for the students at the gate.",
+    "isAnonymous": false
+  },
+  {
+    "rider": "$rider2",
+    "driver": "$driver1",
+    "booking": "$booking2",
+    "rating": 4,
+    "categories": {
+      "punctuality": 4,
+      "behavior": 5,
+      "vehicleCleanliness": 4,
+      "friendliness": 4
+    },
+    "reviewText": "Good service overall. Car was clean and driver was polite.",
+    "isAnonymous": false
+  },
+  {
+    "rider": "$rider3",
+    "driver": "$driver4",
+    "booking": "$booking4",
+    "rating": 5,
+    "categories": {
+      "punctuality": 5,
+      "behavior": 5,
+      "vehicleCleanliness": 5,
+      "friendliness": 5
+    },
+    "reviewText": "Excellent! Baba always arrives early. Our kids feel safe.",
+    "isAnonymous": true
+  },
+  {
+    "rider": "$rider4",
+    "driver": "$driver3",
+    "booking": "$booking5",
+    "rating": 4,
+    "categories": {
+      "punctuality": 4,
+      "behavior": 4,
+      "vehicleCleanliness": 3,
+      "friendliness": 5
+    },
+    "reviewText": "Driver was friendly. The van could have been cleaner but the ride was smooth.",
+    "isAnonymous": false
+  },
+  {
+    "rider": "$rider1",
+    "driver": "$driver6",
+    "booking": null,
+    "rating": 5,
+    "categories": {
+      "punctuality": 5,
+      "behavior": 5,
+      "vehicleCleanliness": 5,
+      "friendliness": 5
+    },
+    "reviewText": "Best auto bhaiya in Jamshedpur! Highly recommended.",
+    "isAnonymous": false
+  }
+]

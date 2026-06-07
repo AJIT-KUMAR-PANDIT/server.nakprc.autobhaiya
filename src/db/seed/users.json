@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Amit Sharma",
+    "phone": "+919876543001",
+    "authMethod": "phone-otp",
+    "totalRides": 24,
+    "isVerified": true
+  },
+  {
+    "name": "Priya Patel",
+    "phone": "+919876543002",
+    "authMethod": "whatsapp",
+    "totalRides": 12,
+    "isVerified": true
+  },
+  {
+    "name": "Suresh Yadav",
+    "phone": "+919876543003",
+    "authMethod": "phone-otp",
+    "totalRides": 56,
+    "isVerified": true
+  },
+  {
+    "name": "Deepika Singh",
+    "phone": "+919876543004",
+    "authMethod": "phone-otp",
+    "totalRides": 8,
+    "isVerified": false
+  },
+  {
+    "name": "Rahul Verma",
+    "phone": "+919876543005",
+    "authMethod": "whatsapp",
+    "totalRides": 31,
+    "isVerified": true
+  }
+]

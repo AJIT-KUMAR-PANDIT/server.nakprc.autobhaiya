@@ -1,0 +1,59 @@
+[
+  {
+    "booking": "$booking1",
+    "payer": "$rider1",
+    "payee": "$driver7",
+    "amount": 140,
+    "currency": "INR",
+    "method": "upi",
+    "upiTransactionId": "UPI202601151234",
+    "upipaymentId": "rajesh@upi",
+    "qrCodeScanned": true,
+    "status": "completed",
+    "metadata": { "utrNumber": "HDFC202601159876", "note": "Paid via Google Pay" }
+  },
+  {
+    "booking": "$booking2",
+    "payer": "$rider2",
+    "payee": "$driver1",
+    "amount": 185,
+    "currency": "INR",
+    "method": "upi",
+    "upiTransactionId": "UPI202601141122",
+    "upipaymentId": "rajesh@upi",
+    "qrCodeScanned": true,
+    "status": "completed",
+    "metadata": { "utrNumber": "SBIN202601145678", "note": "Paid via BHIM" }
+  },
+  {
+    "booking": "$booking3",
+    "payer": "$rider3",
+    "payee": "$driver4",
+    "amount": 120,
+    "currency": "INR",
+    "method": "cash",
+    "status": "pending"
+  },
+  {
+    "booking": "$booking5",
+    "payer": "$rider4",
+    "payee": "$driver3",
+    "amount": 320,
+    "currency": "INR",
+    "method": "upi",
+    "upiTransactionId": "UPI202601132200",
+    "upipaymentId": "rajesh@upi",
+    "qrCodeScanned": false,
+    "status": "completed",
+    "metadata": { "utrNumber": "ICIC202601134567" }
+  },
+  {
+    "booking": "$booking6",
+    "payer": "$rider5",
+    "payee": "$driver8",
+    "amount": 130,
+    "currency": "INR",
+    "method": "cash",
+    "status": "pending"
+  }
+]

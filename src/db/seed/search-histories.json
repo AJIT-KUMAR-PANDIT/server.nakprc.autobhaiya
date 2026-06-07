@@ -1,0 +1,67 @@
+[
+  {
+    "user": "$rider1",
+    "query": "loyola school",
+    "isGoAnywhere": false,
+    "resultsCount": 4,
+    "resultPlateNumbers": ["ABC-1234", "JKL-2345"],
+    "bookedPlateNumber": "DL-01-CV-5678",
+    "city": "Jamshedpur"
+  },
+  {
+    "user": "$rider1",
+    "query": "little flower school jamshedpur",
+    "isGoAnywhere": false,
+    "resultsCount": 2,
+    "resultPlateNumbers": ["DEF-3456"],
+    "bookedPlateNumber": "JKL-2345",
+    "city": "Jamshedpur"
+  },
+  {
+    "user": "$rider1",
+    "query": "gomti lake",
+    "isGoAnywhere": true,
+    "goAnywhereDestination": "Gomti Lake",
+    "resultsCount": 3,
+    "resultPlateNumbers": ["DEF-3456", "MNO-9012"],
+    "bookedPlateNumber": "MNO-9012",
+    "city": "Jamshedpur"
+  },
+  {
+    "user": "$rider2",
+    "query": "carmel junior college",
+    "isGoAnywhere": false,
+    "resultsCount": 1,
+    "resultPlateNumbers": ["PQR-6789"],
+    "bookedPlateNumber": null,
+    "city": "Jamshedpur"
+  },
+  {
+    "user": "$rider3",
+    "query": "ghatsara bus stand",
+    "isGoAnywhere": true,
+    "goAnywhereDestination": "Ghatsara Bus Stand",
+    "resultsCount": 2,
+    "resultPlateNumbers": ["DEF-3456"],
+    "bookedPlateNumber": "DEF-3456",
+    "city": "Jamshedpur"
+  },
+  {
+    "user": "$rider4",
+    "query": "sacred heart convent",
+    "isGoAnywhere": false,
+    "resultsCount": 2,
+    "resultPlateNumbers": ["MNO-9012"],
+    "bookedPlateNumber": "MNO-9012",
+    "city": "Jamshedpur"
+  },
+  {
+    "user": "$rider5",
+    "query": "kerala samajam model school",
+    "isGoAnywhere": false,
+    "resultsCount": 1,
+    "resultPlateNumbers": [],
+    "bookedPlateNumber": "DL-01-CV-5678",
+    "city": "Jamshedpur"
+  }
+]

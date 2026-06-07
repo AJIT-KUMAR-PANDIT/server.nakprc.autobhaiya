@@ -1,0 +1,87 @@
+[
+  {
+    "user": "$rider1",
+    "driver": "$driver7",
+    "booking": "$booking1",
+    "category": "trip-started",
+    "title": "Your Bhaiya is on the way!",
+    "body": "Driver Rajesh Kumar (DL-01-CV-5678) has started heading to your pickup point.",
+    "iconEmoji": "🛺",
+    "isRead": true,
+    "deepLink": "/auto-bhaiya/DL-01-CV-5678"
+  },
+  {
+    "user": "$rider1",
+    "driver": "$driver7",
+    "booking": "$booking1",
+    "category": "driver-arrived",
+    "title": "Bhaiya has arrived!",
+    "body": "Rajesh Kumar is waiting at your pickup point. Call now if needed.",
+    "iconEmoji": "📍",
+    "isRead": true,
+    "deepLink": "/auto-bhaiya/DL-01-CV-5678"
+  },
+  {
+    "user": "$rider1",
+    "driver": "$driver7",
+    "booking": "$booking1",
+    "category": "trip-completed",
+    "title": "Trip completed!",
+    "body": "You reached Loyola School safely. Rate your ride!",
+    "iconEmoji": "✅",
+    "isRead": true,
+    "deepLink": "/auto-bhaiya/DL-01-CV-5678"
+  },
+  {
+    "user": "$rider2",
+    "booking": "$booking2",
+    "category": "delay-alert",
+    "title": "Slight delay — be patient!",
+    "body": "Traffic is heavy. Your Bhaiya will arrive in ~12 mins instead of 5.",
+    "iconEmoji": "⏰",
+    "isRead": true,
+    "deepLink": "/auto-bhaiya/ABC-1234"
+  },
+  {
+    "user": "$rider3",
+    "driver": "$driver4",
+    "booking": "$booking3",
+    "category": "payment-received",
+    "title": "Payment confirmed!",
+    "body": "₹120 cash received. Thank you for riding with Auto Bhaiya!",
+    "iconEmoji": "💳",
+    "isRead": false,
+    "deepLink": "/auto-bhaiya/DEF-3456/payments"
+  },
+  {
+    "user": "$rider4",
+    "driver": "$driver3",
+    "booking": "$booking5",
+    "category": "safety-alert",
+    "title": "Ride complete — share feedback",
+    "body": "How was your trip to Gomti Lake? Leave a review.",
+    "iconEmoji": "⭐",
+    "isRead": false,
+    "deepLink": "/auto-bhaiya/MNO-9012/profile"
+  },
+  {
+    "user": "$rider5",
+    "driver": "$driver8",
+    "booking": "$booking6",
+    "category": "trip-started",
+    "title": "Bhaiya is on the way!",
+    "body": "Driver Rajesh Kumar has started heading to your pickup point.",
+    "iconEmoji": "🛺",
+    "isRead": false,
+    "deepLink": "/auto-bhaiya/DL-01-CV-5678"
+  },
+  {
+    "user": "$rider1",
+    "category": "support-response",
+    "title": "Support responded",
+    "body": "Your concern has been resolved. Thank you for using Auto Bhaiya!",
+    "iconEmoji": "🔔",
+    "isRead": true,
+    "deepLink": "/chat"
+  }
+]

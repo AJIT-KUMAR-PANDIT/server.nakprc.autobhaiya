@@ -1,0 +1,92 @@
+[
+  {
+    "channelType": "direct",
+    "booking": "$booking1",
+    "participants": ["$rider1", "$driver7"],
+    "messages": [
+      {
+        "sender": "$rider1",
+        "text": "Hi Baba, what time will you reach my stop tomorrow?",
+        "timestamp": "2026-01-15T06:30:00.000Z",
+        "status": "read"
+      },
+      {
+        "sender": "$driver7",
+        "text": "Good morning! I will reach by 7:15 AM.",
+        "timestamp": "2026-01-15T06:35:00.000Z",
+        "status": "read"
+      },
+      {
+        "sender": "$rider1",
+        "text": "Thank you! See you tomorrow.",
+        "timestamp": "2026-01-15T06:36:00.000Z",
+        "status": "read"
+      }
+    ],
+    "lastMessage": {
+      "text": "Thank you! See you tomorrow.",
+      "timestamp": "2026-01-15T06:36:00.000Z",
+      "sender": "$rider1",
+      "isRead": true
+    }
+  },
+  {
+    "channelType": "direct",
+    "booking": "$booking4",
+    "participants": ["$rider3", "$driver6"],
+    "messages": [
+      {
+        "sender": "$rider3",
+        "text": "Hello! Is the auto available for school pickup on Monday?",
+        "timestamp": "2026-01-14T18:00:00.000Z",
+        "status": "read"
+      },
+      {
+        "sender": "$driver6",
+        "text": "Yes bhaiya, confirmed for Monday!",
+        "timestamp": "2026-01-14T18:05:00.000Z",
+        "status": "read"
+      }
+    ],
+    "lastMessage": {
+      "text": "Yes bhaiya, confirmed for Monday!",
+      "timestamp": "2026-01-14T18:05:00.000Z",
+      "sender": "$driver6",
+      "isRead": true
+    }
+  },
+  {
+    "channelType": "support",
+    "messages": [
+      {
+        "isSystem": true,
+        "text": "Welcome to Auto Bhaiya Support! How can we help you?",
+        "timestamp": "2026-01-13T10:00:00.000Z",
+        "status": "delivered"
+      }
+    ],
+    "lastMessage": {
+      "text": "Welcome to Auto Bhaiya Support! How can we help you?",
+      "timestamp": "2026-01-13T10:00:00.000Z",
+      "isRead": false
+    },
+    "unreadCount": 1
+  },
+  {
+    "channelType": "alerts",
+    "messages": [
+      {
+        "isSystem": true,
+        "text": "🔔 Your booking for today at 7:30 AM has been confirmed. Driver will arrive by 7:20 AM.",
+        "timestamp": "2026-01-15T05:00:00.000Z",
+        "status": "delivered"
+      }
+    ],
+    "lastMessage": {
+      "text": "🔔 Your booking for today at 7:30 AM has been confirmed.",
+      "timestamp": "2026-01-15T05:00:00.000Z",
+      "isRead": false
+    },
+    "unreadCount": 1
+  }
+]
